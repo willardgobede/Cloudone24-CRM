@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CloudOne24</string>
+    <string name="main_url">https://ikworx.cloudone24.com/authentication/login</string>
+    <string name="staff_url">https://ikworx.cloudone24.com/admin/authentication</string>
+    <string name="login_url">https://ikworx.cloudone24.com/authentication/login</string>
+    <string name="share_url">http://cloudone24.com</string>
+  
+<!-- https://ikworx.cloudone24.com/admin/authentication -->
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
